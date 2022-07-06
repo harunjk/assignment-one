@@ -33,5 +33,43 @@ color: rgb(223, 133, 24);}
 color: darkgreen;
 border: 5px solid yellow;}
 
+.other { text-align: center;
+padding-top: 40px;
+text-decoration: underline solid rgb(31, 10, 10);}
+
+.other-sec-two{ display: flex;
+    margin-left: 60px;
+    margin-right: 60px;
+
+}
+
+
+.bx-sd{ display: flex;
+}
+
+.for-food{
+margin: 10px;
+box-shadow: 10px 10px 30px rgb(51, 59, 51);
+border-radius: 10px;
+padding: 15px;
+background-color: rgb(155, 122, 80);
+}
+
+.shelter{box-shadow: 10px 10px 30px rgb(51, 59, 51);
+    margin: 10px;
+    padding-left: 15px;
+    border-radius: 10px;
+    background-color: rgb(125, 156, 68);
+color: rgb(152, 212, 212);}
+
+    .education{
+    margin: 10px;
+    box-shadow: 10px 10px 30px rgb(51, 59, 51);
+    border-radius: 10px;
+    padding: 15px;
+    background-color: rgb(199, 124, 25);
+    }
+
+
 
 
