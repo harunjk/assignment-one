@@ -16,9 +16,12 @@ background-color:rgb(240, 169, 17);
 padding: 5px;
 border-radius: 10px;}
 
-.section-two{text-align: center;
+.section-two{
+    text-align: center;
     padding-top: 15px;
-color: rgb(29, 29, 6);}
+    color: rgb(29, 29, 6);
+    color: rgb(73, 54, 54);
+}
 
 .id-one{text-align: center;
 margin-top: 30px;}
@@ -78,20 +81,6 @@ margin-top: 30px;}
         background-color: rgb(199, 124, 25);
     }
 
-footer{
-        text-align: center;
-        background-color: rgb(48, 40, 40);
-        color: rgb(206, 247, 173);
-    }
-
-
-footer h5{
-        padding-top: 20px;
-        color: rgb(8, 99, 64);
-        font-size: 20px;
-        font-style: italic;
-        font-family: Courier;
-    }
 
 .need-help{
         display:flex;
@@ -109,6 +98,57 @@ footer h5{
 
 
 .img-one img{ width: 70%;}
+
+
+
+
+.get-head{
+    text-align: center;
+    padding-left: 200px;
+    padding-right:200px ;
+    font-size: 19px;
+}
+
+.input-hd{ padding-left: 200px;
+    padding-right:200px ;
+    }
+
+.input-one{
+    
+    text-align: center;
+    background-color: rgb(226, 135, 17);
+    padding: 45px;
+    font-size: 25px;  
+}
+
+.lnik-two{ color: rgb(102, 24, 236);
+    
+    border-radius: 0 25px 25px 0;
+}
+
+.box input{ font-size: 30px;
+   
+    border-radius: 15px;}
+
+
+footer{
+    text-align: center;
+    background-color: rgb(48, 40, 40);
+    color: rgb(206, 247, 173);
+}
+
+
+footer h4{
+    padding-top: 20px;
+    color: rgb(8, 99, 64);
+    font-size: 20px;
+    font-style: italic;
+    font-family: Courier;
+}
+
+
+
+
 
 
 
