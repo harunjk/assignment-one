@@ -17,30 +17,36 @@ padding: 5px;
 border-radius: 10px;}
 
 .section-two{text-align: center;
+    padding-top: 15px;
 color: rgb(29, 29, 6);}
 
 .id-one{text-align: center;
 margin-top: 30px;}
 
-.like {display: inline;
-padding: 10px;
-margin: 15px;
-box-shadow: 10px 10px 20px rgb(134, 103, 103);
-border-radius: 05px;
-color: rgb(223, 133, 24);}
+.like {
+    display: inline;
+    padding: 10px;
+    margin: 15px;
+    box-shadow: 10px 10px 20px rgb(134, 103, 103);
+    border-radius: 05px;
+    color: rgb(223, 133, 24);
+}
 
-#other-color{ background-color: rgb(34, 10, 10);
-color: darkgreen;
-border: 5px solid yellow;}
+#other-color{
+    background-color: rgb(34, 10, 10);
+    color: darkgreen;
+    border: 5px solid yellow;
+}
 
-.other { text-align: center;
-padding-top: 40px;
-text-decoration: underline solid rgb(31, 10, 10);}
+.other {
+    text-align: center;
+    padding-top: 40px;
+    text-decoration: underline solid rgb(31, 10, 10);
+}
 
 .other-sec-two{ display: flex;
     margin-left: 60px;
     margin-right: 60px;
-
 }
 
 
@@ -48,27 +54,62 @@ text-decoration: underline solid rgb(31, 10, 10);}
 }
 
 .for-food{
-margin: 10px;
-box-shadow: 10px 10px 30px rgb(51, 59, 51);
-border-radius: 10px;
-padding: 15px;
-background-color: rgb(155, 122, 80);
-}
-
-.shelter{box-shadow: 10px 10px 30px rgb(51, 59, 51);
-    margin: 10px;
-    padding-left: 15px;
-    border-radius: 10px;
-    background-color: rgb(125, 156, 68);
-color: rgb(152, 212, 212);}
-
-    .education{
     margin: 10px;
     box-shadow: 10px 10px 30px rgb(51, 59, 51);
     border-radius: 10px;
     padding: 15px;
-    background-color: rgb(199, 124, 25);
+    background-color: rgb(155, 122, 80);
+}
+
+.shelter{
+    box-shadow: 10px 10px 30px rgb(51, 59, 51);
+    margin: 10px;
+    padding-left: 15px;
+    border-radius: 10px;
+    background-color: rgb(125, 156, 68);
+    color: rgb(152, 212, 212);
+}
+
+.education{
+        margin: 10px;
+        box-shadow: 10px 10px 30px rgb(51, 59, 51);
+        border-radius: 10px;
+        padding: 15px;
+        background-color: rgb(199, 124, 25);
     }
+
+footer{
+        text-align: center;
+        background-color: rgb(48, 40, 40);
+        color: rgb(206, 247, 173);
+    }
+
+
+footer h5{
+        padding-top: 20px;
+        color: rgb(8, 99, 64);
+        font-size: 20px;
+        font-style: italic;
+        font-family: Courier;
+    }
+
+.need-help{
+        display:flex;
+        padding-top: 30px;
+    
+    }
+
+.img-one{
+    width: 50%;
+    text-align: justify;
+    margin: 20px;
+    padding-left: 20px;
+    text-align: center;
+}
+
+
+.img-one img{ width: 70%;}
+
 
 
 
